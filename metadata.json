@@ -1,0 +1,22 @@
+{
+  "name": "TOKEN_NAME",
+  "symbol": "TOKEN_SYMBOL",
+  "description": "A short description of  token—for example, “This token powers the Pump.fun ecosystem.”",
+  "external_url": "https://website.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Channel"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/Handle"
+    }
+  ],
+  "collection": null,
+  "properties": {
+    "files": [],
+    "category": "token"
+  }
+}
